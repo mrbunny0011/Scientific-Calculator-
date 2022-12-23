@@ -55,7 +55,7 @@ while(true){
     case '%' :
     { float re;
     re= rem(a,b);
-    cout<<"reminder valuere.  :"<<endl;
+    cout<<"reminder valuere.  :"<<re<<endl;
     break;
     }
     } cout<<"_____________________________________"<<endl;
